@@ -4,9 +4,9 @@ Tämä Basic-ohjelma on demo siitä, miksi tulkkaava Basic ei oikein sovellu gra
 
 Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE emulaattorin ikkunaan.
 
-Tarvittaessa kirjoita ensin new -komento.
+Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
 
-Kun ohjelman ajaa run -komennolla, näytölle ilmestyy värillisiä kuvioita. Odota rauhassa, että näyttö tyhjenee (rivit 150 - 200) ja viivan piirto alkaa.
+Kun ohjelman ajaa `run` -komennolla, näytölle ilmestyy värillisiä kuvioita. Odota rauhassa, että näyttö tyhjenee (rivit 150 - 200) ja viivan piirto alkaa.
 
 ```
 10 rem (c) 2025 retro-ohjelmoija
