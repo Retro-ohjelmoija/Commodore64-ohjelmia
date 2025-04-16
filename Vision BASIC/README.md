@@ -6,3 +6,5 @@ Näitä lähdekoodeja (Basic listauksia) ei voi ajaa ilman Vision BASIC:ia. Näm
 
 Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, joka voidaan ajaa missä tahansa C64:ssä tai emulaattorilla ilman että omistaa Vision BASIC:ia.
 
+[Viiva- ja äänidemo](Viiva-%20ja%20äänidemo.md)
+
