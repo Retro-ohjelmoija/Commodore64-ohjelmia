@@ -8,4 +8,6 @@ Ohjelmat toimivat alkuperäisessä C64:ssä, retro theC64:ssä ja VICE-emulaatto
 
 - - -
 
-VICE löytyy täältä: https://vice-emu.sourceforge.io
+VICE löytyy täältä: 
+https://vice-emu.sourceforge.io.
+VICE emulaattori on saatavissa Windowsille, Macille ja Linuxille. VICE voi emuloida muitakin kuin alkuperäistä C64 tietokonetta.
