@@ -1,6 +1,6 @@
 # Vision BASIC ohjelmia.
 
-Vision BASIC on Basic kääntäjä C64:lle. Katso https://visionbasic.net
+Vision BASIC on Basic kääntäjä C64:lle.
 
 Näitä lähdekoodeja (Basic listauksia) ei voi ajaa ilman Vision BASIC:ia. Nämä siis eivät toimi perus C64:ssä tai emulaattorissa ilman Vision BASIC:ia.
 
@@ -10,3 +10,6 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 [Viiva- ja äänidemo](Viiva-%20ja%20äänidemo.md) on manuaalista mukailtu ohjelma, joka piirtää näytölle viivoja ja soittaa samalla satunnaisia ääniä.
 
+- - -
+
+Katso lisätietoja Vision BASIC:sta ohjelman tekijän kotisivuilta https://visionbasic.net
