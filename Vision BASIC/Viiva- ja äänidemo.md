@@ -6,7 +6,7 @@ Viivanpiirtoesimerkki sivulta 183.
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
-Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run` -komennolla ja lopeta ohjelma painamalla q -näppäintä.
+Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run` -komennolla ja lopeta ohjelma painamalla `q` -näppäintä.
 
 ```
 0 clr : decimal x, y
