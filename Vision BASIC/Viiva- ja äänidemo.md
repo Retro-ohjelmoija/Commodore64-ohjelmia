@@ -42,7 +42,7 @@ Kirjoita ensin new komento ja liitä sitten alla oleva koodi. Aja ohjelma run -k
 999 end
 
 2000 proc nsound 
-2010 fr = rnd(0) + 300 * 17 : REM freq * 16.778523
+2010 fr = rnd(0) + 300 * 17 : rem freq * 16.778523
 2020 freq fr
 2030 wave 1, 1
 2040 ti = clock
