@@ -48,4 +48,5 @@ Kirjoita ensin new komento ja liitä sitten alla oleva koodi. Aja ohjelma run -k
 2040 ti = clock
 2050 release = 0
 2060 return
+
 ```
