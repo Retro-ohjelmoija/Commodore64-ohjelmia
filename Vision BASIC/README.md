@@ -6,7 +6,7 @@ Näitä lähdekoodeja (Basic listauksia) ei voi ajaa ilman Vision BASIC:ia. Näm
 
 Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, joka voidaan ajaa missä tahansa C64:ssä tai emulaattorilla ilman että omistaa Vision BASIC:ia.
 
-Sisältö:
+Ohjelmalistaukset:
 
 [Viiva- ja äänidemo](Viiva-%20ja%20äänidemo.md) on manuaalista mukailtu ohjelma, joka piirtää näytölle viivoja ja soittaa samalla satunnaisia ääniä.
 
