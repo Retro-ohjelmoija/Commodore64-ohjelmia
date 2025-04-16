@@ -1,7 +1,8 @@
 Vision BASIC User Manual -kirjasta sovellettu viivoja piirtävä ja ääniä soittava demo.
 
-Viivanpiirtoesimerkki sivulta 183
-Ääniesimerkki sivulta 188
+Viivanpiirtoesimerkki sivulta 183.
+
+Ääniesimerkki sivulta 188.
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
