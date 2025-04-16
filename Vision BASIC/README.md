@@ -12,4 +12,4 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 - - -
 
-Katso lisätietoja Vision BASIC:sta ohjelman tekijän kotisivuilta https://visionbasic.net
+_Katso lisätietoja Vision BASIC:sta ohjelman tekijän kotisivuilta https://visionbasic.net_
