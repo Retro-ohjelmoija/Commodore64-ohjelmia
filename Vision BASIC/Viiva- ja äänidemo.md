@@ -26,7 +26,7 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 310 label loop
 320 x = rnd(1) * 160
 330 y = rnd(1) * 200
-340 [inc 2199 ; rem last used color + 1
+340 [inc 2199 ; last used color + 1
 350 line x, y, x1, y1
 360 x1 = x
 370 y1 = y
