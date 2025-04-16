@@ -1,0 +1,8 @@
+Vision BASIC ohjelmia.
+
+Vision BASIC on Basic kääntäjä C64:lle. Katso https://visionbasic.net
+
+Näitä lähdekoodeja (Basic listauksia) ei voi ajaa ilman Vision BASIC:ia. Nämä siis eivät toimi perus C64:ssä tai emulaattorissa ilman Vision BASIC:ia.
+
+Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, joka voidaan ajaa missä tahansa C64:ssä tai emulaattorilla ilman että omistaa Vision BASIC:ia.
+
