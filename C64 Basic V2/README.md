@@ -4,4 +4,4 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 
 ### Ohjelmalistaukset:
 
-[Viivanpiirto](Viivanpiirto.md) Basicilla (demo, h-i-d-a-s)
+[Viivanpiirto](Viivanpiirto.md) Basicilla (demo, h..i..d..a..s..)
