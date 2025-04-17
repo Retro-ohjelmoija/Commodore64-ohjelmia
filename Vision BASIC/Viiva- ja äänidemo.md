@@ -1,4 +1,4 @@
-# Viivanpiirto- ja äänidemo
+# Viivanpiirto- ja äänidemo "Screen saver"
 
 Vision BASIC User Manual -kirjasta sovellettu viivoja piirtävä ja ääniä soittava demo.
 
