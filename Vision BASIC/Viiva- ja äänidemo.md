@@ -50,3 +50,5 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 2060 return
 
 ```
+
+_**Huom.:** Rivillä 2010 oleva tajuuskerroin ei ehkä välttämättä ole oikein. Oikea arvo voi olla 14.3472. Tai jokin muu - mutta tässä ohjelmassa ei ole tavoiteltu tarkkoja musiikkinuotteja, joten kertoimen tarkalla arvolla ei ole väliä._
