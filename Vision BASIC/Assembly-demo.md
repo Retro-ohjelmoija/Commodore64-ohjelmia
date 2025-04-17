@@ -1,6 +1,6 @@
 # Assembly upotettuna Basic-ohjelmaan
 
-Vision BASIC mahdollistaa assemblyn upotuksen basic-ohjelman joukkoon. Assembly alkaa [-merkillä.
+Vision BASIC mahdollistaa assemblyn upotuksen basic-ohjelman joukkoon. Assembly alkaa [ -merkillä.
 
 Listaus on suunniteltu niin, että se voidaan copy-pasteta VICE-emulaattorin ikkunaan, jossa Vision BASIC on käynnissä.
 
