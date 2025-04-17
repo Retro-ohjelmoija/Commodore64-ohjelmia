@@ -2,7 +2,7 @@
 
 Vision BASIC mahdollistaa assemblyn upotuksen basic-ohjelman joukkoon. Assembly alkaa [ -merkillä.
 
-Listaus on suunniteltu niin, että se voidaan copy-pasteta VICE-emulaattorin ikkunaan, jossa Vision BASIC on käynnissä.
+Listaus on suunniteltu niin, että seb voi copy-pasteta VICE-emulaattorin ikkunaan, jossa Vision BASIC on käynnissä.
 
 ```
 0 clr
