@@ -7,6 +7,10 @@ Alkuperäinen C64 Basic-ohjelma, josta tämä on muunnettu: [Viivanpiirto](/C64%
 > [!IMPORTANT]
 > This is not an example how to create graphics in Vision BASIC. This is a test where regular Basic program for transported to Vision BASIC with minimum changes. Idea was to test execution speed gains. In this case from original 70 seconds to 10 seconds.
 
+Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
+
+Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run` -komennolla ja lopeta ohjelma painamalla jotain näppäintä.
+
 ```
 0 clr : decimal hps, vps
 
