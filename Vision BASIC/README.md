@@ -10,6 +10,8 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 [Viiva- ja äänidemo](Viiva-%20ja%20äänidemo.md) on manuaalista mukailtu ohjelma, joka piirtää näytölle viivoja ja soittaa samalla satunnaisia ääniä.
 
+[Nopeustesti](Nopeustesti.md) on kokeilu, jossa tavallinen Basic-ohjelma on muunnettu Vision BASIC -ohjelmaksi suoritusnopeuden vertailua varten.
+
 - - -
 
 _Katso lisätietoja Vision BASIC:sta ohjelman tekijän kotisivuilta https://visionbasic.net_
