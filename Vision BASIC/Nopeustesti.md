@@ -2,7 +2,7 @@
 
 Tämä ohjelma on muunnos perus-Basicilla tehdystä ohjelmasta Vision BASIC -ohjelmaksi. **Tämän ei ole tatkoitus olla esimerkki miten grafiikkaa tehdään Vision BASIC:lla. Vision BASIC:ssa on omat keinot (käskyt) tehdä grafiikkaa.**
 
-Alkuperäinen C64 Basic-ohjelma, josta tämä on muunnettu: [](C64 Basic V2/Viivanpiirto.md)
+Alkuperäinen C64 Basic-ohjelma, josta tämä on muunnettu: [Viivanpiirto](/C64%20Basic%20V2/Viivanpiirto.md)
 
 > [!IMPORTANT]
 > This is not an example how to create graphics in Vision BASIC. This is a test where regular Basic program for transported to Vision BASIC with minimum changes. Idea was to test execution speed gains. In this case from original 70 seconds to 10 seconds.
