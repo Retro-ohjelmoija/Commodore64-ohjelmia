@@ -14,6 +14,8 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 [Nopeustesti](Nopeustesti.md) on kokeilu, jossa tavallinen Basic-ohjelma on muunnettu Vision BASIC -ohjelmaksi suoritusnopeuden vertailua varten.
 
+
+
 - - -
 
 _Katso lisätietoja Vision BASIC:sta ohjelman tekijän kotisivuilta https://visionbasic.net_
