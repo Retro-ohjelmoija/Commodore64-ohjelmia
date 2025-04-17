@@ -45,10 +45,10 @@ Listaus on suunniteltu niin, että seb voi copy-pasteta VICE-emulaattorin ikkuna
 700 rem e = 65000 + 355 (lo ja high byte)
 710 [lda e   ; e-muuttujan arvo akkuun
 720 [clc     ; tyhjataan carry-lippu
-730 [adc d   ; lisaa b arvo akkuun
+730 [adc d   ; lisaa d arvo akkuun
 740 [sta e   ; akun sisalto e-muuttujaan
 750 [lda e+1 ; e-muuttujan arvo akkuun
-760 [adc d+1 ; lisaa b arvo akkuun + carry
+760 [adc d+1 ; lisaa d arvo akkuun + carry
 780 [sta e+1 ; akun sisalto e-muuttujaan
 
 900 print "a="; a
