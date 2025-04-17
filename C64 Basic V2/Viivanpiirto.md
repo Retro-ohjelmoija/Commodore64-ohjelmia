@@ -6,7 +6,7 @@ Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisen
 
 Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
 
-Kun ohjelman ajaa `run` -komennolla, näytölle ilmestyy värillisiä kuvioita. Odota rauhassa, että näyttö tyhjenee (rivit 150 - 200) ja viivan piirto alkaa.
+Kun ohjelman ajaa `run` -komennolla, näytölle ilmestyy värillisiä kuvioita. Odota rauhassa, että näyttö tyhjenee (rivit 150 - 200) ja viivan piirto alkaa. Lopuksi ohjelman suorituksen voi lopettaa painamalla jotain näppäintä.
 
 ```
 10 rem (c) 2025 retro-ohjelmoija
