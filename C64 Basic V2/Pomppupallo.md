@@ -11,6 +11,7 @@ Aja ohjelma `run` -komennolla. Stoppaa ohjelma emulaattorissa esc-näppäimellä
 
 ```
 10 rem (c) 2025 retro-ohjelmoija
+
 100 print chr$(147)
 110 dx = -1 : dy = -1 : x = 20 : y = 12
 120 ex = x : ey = y
