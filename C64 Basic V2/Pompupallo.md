@@ -1,5 +1,14 @@
 # Reunoista pomppaava pallo
 
+Tämä Basic-ohjelma on yksinkertainen animaatio pallosta, joka liikkuu näytöllä ja törmätessään reunaan kimpoaa siitä.
+
+Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE emulaattorin ikkunaan.
+
+Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
+
+Aja ohjelma `run` -komennolla. Stoppaa ohjelma emulaattorissa esc-näppäimellä (= stop-näppäin).
+
+
 ```
 10 rem (C) 2025 retro-ohjelmoija
 100 print chr$(147)
@@ -30,3 +39,17 @@
 2040 return
 
 ```
+
+### Erikoismerkkien selitykset - CHR$(x)
+
+17 = kursori alas yksi rivi
+
+19 = kursori näytön vasempaan ylänurkkaan
+
+29 = kursori oikealle yksi merkkipaikka
+
+147 = näytön tyhjennys
+
+209 = pallo
+
+
