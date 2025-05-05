@@ -4,8 +4,8 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 
 ### Ohjelmalistaukset:
 
-[Reunoista pomppaava pallo](Pomppupallo 1.md) - hidas
+[Reunoista pomppaava pallo](Pomppupallo%201.md) - hidas
 
-[Reunoista pomppaava pallo](Pomppupallo 2.md) - nopea
+[Reunoista pomppaava pallo](Pomppupallo%202.md) - nopea
 
 [Viivanpiirto](Viivanpiirto.md) Basicilla (demo, h..i..d..a..s..)
