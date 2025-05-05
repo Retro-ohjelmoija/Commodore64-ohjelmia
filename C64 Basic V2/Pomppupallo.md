@@ -27,15 +27,15 @@ Aja ohjelma `run` -komennolla. Stoppaa ohjelma emulaattorissa esc-näppäimellä
 
 1000 rem vanha pallo pois
 1005 print chr$(19);
-1010 if ey > 1 then for r=1 to ey-1 : print chr$(17); : nextr
-1020 if ex > 1 then for s=1 to ex-1 : print chr$(29); : nexts
+1010 if ey > 1 then for r=1 to ey-1 : print chr$(17); : next r
+1020 if ex > 1 then for s=1 to ex-1 : print chr$(29); : next s
 1030 print " ";
 1040 return
 
 2000 rem uusi pallo paikalleen
 2005 print chr$(19);
-2010 if y > 1 then for r=1 to y-1 : print chr$(17); : nextr
-2020 if x > 1 then for s=1 to x-1 : print chr$(29); : nexts
+2010 if y > 1 then for r=1 to y-1 : print chr$(17); : next r
+2020 if x > 1 then for s=1 to x-1 : print chr$(29); : next s
 2030 print chr$(209);
 2040 return
 
