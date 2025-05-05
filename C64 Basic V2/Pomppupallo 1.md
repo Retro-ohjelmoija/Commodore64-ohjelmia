@@ -1,4 +1,4 @@
-# Reunoista pomppaava pallo
+# Reunoista pomppaava pallo (hidas)
 
 Tämä Basic-ohjelma on yksinkertainen animaatio pallosta, joka liikkuu näytöllä ja törmätessään reunaan kimpoaa siitä.
 
