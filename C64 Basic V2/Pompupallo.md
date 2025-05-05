@@ -1,0 +1,32 @@
+# Reunoista pomppaava pallo
+
+```
+10 rem (C) 2025 retro-ohjelmoija
+100 print chr$(147)
+110 dx = -1 : dy = -1 : x = 20 : y = 12
+120 ex = x : ey = y
+130 x = x + dx
+140 if x > 40 then x = 39 : dx = -dx
+150 if x < 1 then x = 2 : dx = -dx
+160 y = y + dy
+170 if y > 25 then y = 24 : dy = -dy
+180 if y < 1 then y = 2 : dy = -dy
+200 gosub 1000
+210 gosub 2000
+230 goto 120
+
+1000 rem vanha pallo pois
+1005 print chr$(19);
+1010 if ey > 1 then for r=1 to ey-1 : print chr$(17); : nextr
+1020 if ex > 1 then for s=1 to ex-1 : print chr$(29); : nexts
+1030 print " ";
+1040 return
+
+2000 rem uusi pallo paikalleen
+2005 print chr$(19);
+2010 if y > 1 then for r=1 to y-1 : print chr$(17); : nextr
+2020 if x > 1 then for s=1 to x-1 : print chr$(29); : nexts
+2030 print chr$(209);
+2040 return
+
+```
