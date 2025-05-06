@@ -1,6 +1,6 @@
 # Basicin perusteet osa 1
 
-Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE emulaattorin ikkunaan.
+Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE-emulaattorin ikkunaan.
 
 Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
 
