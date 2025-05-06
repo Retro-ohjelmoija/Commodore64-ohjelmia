@@ -9,3 +9,5 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 [Reunoista pomppaava pallo](Pomppupallo%202.md) - nopea
 
 [Viivanpiirto](Viivanpiirto.md) Basicilla (demo, h..i..d..a..s..)
+
+[Perusteet osa 1](Perusteet%20osa%201.md) - Basic-esimerkki.
