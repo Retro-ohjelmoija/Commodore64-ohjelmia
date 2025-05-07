@@ -42,6 +42,6 @@ POKE n, 81 on PRINT CHR$(209)
 
 ### Ohjelmasta muokattu versio 2
 
-[Pomppupallo v2](Pomppupallo%202%20v2.md)
+[Reunoista pomppaava pallo](Pomppupallo%202%20v2.md) - nopea versio 2
 
 
