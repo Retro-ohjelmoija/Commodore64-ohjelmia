@@ -40,3 +40,8 @@ Aja ohjelma `run` -komennolla. Stoppaa ohjelma emulaattorissa esc-näppäimellä
 
 POKE n, 81 on PRINT CHR$(209)
 
+### Ohjelmasta muokattu versio 2
+
+[Pomppupallo v2](Pomppupallo%202%20v2.md)
+
+
