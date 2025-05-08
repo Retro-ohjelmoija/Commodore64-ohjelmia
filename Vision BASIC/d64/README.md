@@ -4,6 +4,8 @@
 
 - Hit The Ball.d64 sisältää yhden tiedoston "HIT THE BALL.VEX"
 - Tiedoston voi ladata LOAD -komennolla ja ajaa RUN -komennolla, esimerkiksi  
+  `LOAD "*", 8`  
+  tai  
   `LOAD "HIT THE BALL.VEX", 8`  
   `RUN`
 
