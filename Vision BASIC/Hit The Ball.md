@@ -1,4 +1,4 @@
-# Pallopeli ("squash")
+# Pallopeli Hit The Ball ("squash")
 
 Yksinkertainen teksinäytöllä pelattava mailapallopeli - muistuttaa squashia.
 
