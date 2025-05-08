@@ -21,7 +21,7 @@ Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille 
 
 90 gosub 10110 : rem pelikentan piirto
 
-110 ti = clock : pdelay = 6 : rdelay = 1
+110 ti = clock : pdelay = 6 : rdelay = 3 
 120 dx = -1 : dy = -1 : x = 30 : y = rnd(0) / 13 + 3
 130 pady = 10 : edpady = pady - 1 : gosub 4000
 140 c = clock
@@ -33,9 +33,7 @@ Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille 
 220 if c >= npd then gosub 400 : npd = c + pdelay : rem siirra palloa
 230 if c >= nrd then gosub 500 : nrd = c + rdelay : rem siirra mailaa
 240 if x > 40 then stpgame
-250 get k
-260 if k = 81 then stpgame
-270 goto paalooppi
+250 goto paalooppi
 
 300 label stpgame
 310 cls
