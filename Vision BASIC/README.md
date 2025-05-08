@@ -14,6 +14,7 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 [Nopeustesti](Nopeustesti.md) on kokeilu, jossa tavallinen Basic-ohjelma on muunnettu Vision BASIC -ohjelmaksi suoritusnopeuden vertailua varten.
 
+[Hit The Ball](Hit%20The%20Ball.md) on yksinkertainen tekstimoodissa toimiva pallopeli (tyyliin squash).
 
 
 - - -
