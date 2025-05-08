@@ -7,7 +7,7 @@ Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikk
 Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille oireita.
 
 ```
-0 clr : cls : random
+0 clr : cls : random : colors 1, 11, 9
 1 rem (c) 2025 retro-ohjelmoija / jari ahola
 
 10 loc 13,11; : print "hit the ball!"
