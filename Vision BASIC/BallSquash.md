@@ -115,4 +115,8 @@ Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille 
 
 ```
 
+Jos haluat vain pelata peliä, niin .d64 levykuvan voi ladata tästä:
+[Hit The Ball.d64](https://github.com/Retro-ohjelmoija/Basic-ohjelmia/blob/main/Vision%20BASIC/d64/Hit%20The%20Ball.d64)
+
+
 
