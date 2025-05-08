@@ -2,6 +2,8 @@
 
 Yksinkertainen teksinäytöllä pelattava mailapallopeli - muistuttaa squashia.
 
+![Hit The Ball pelinäyttö](d64/Hit%20The%20Ball.png)
+
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
 Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille oireita.
