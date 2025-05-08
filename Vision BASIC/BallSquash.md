@@ -2,7 +2,9 @@
 
 Yksinkertainen teksinäytöllä pelattava mailapallopeli - muistuttaa squashia.
 
+Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
+Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille oireita.
 
 ```
 0 clr : cls : random
