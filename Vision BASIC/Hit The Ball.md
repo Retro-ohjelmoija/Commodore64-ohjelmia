@@ -39,7 +39,7 @@ Huom.: Pelissä liikkuva pallo "vilkkuu", joten näyttö voi aiheuttaa herkille 
 
 300 label stpgame
 310 cls
-320 loc 16,11; : print "game end"
+320 loc 16,11; : print "game over"
 330 loc 10,13; : print "press n for new game"
 340 loc 10,14; : print "press q to end game"
 350 keypress "qn" : then aloitus 
