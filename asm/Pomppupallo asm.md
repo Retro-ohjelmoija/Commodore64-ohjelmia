@@ -320,5 +320,8 @@ HUOM.: Ohjelmassa ei ole lopetustoimintoa, joten tee reset tai sammuta kone.
 
 ```
 
+---
 
+
+_Assembly-koodaus ja Basic-loaderi tehty CBM prg Studiolla_
 
