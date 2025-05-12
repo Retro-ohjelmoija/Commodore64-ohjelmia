@@ -6,7 +6,7 @@
 
 # Assembly- eli konekielisiä ohjelmia Commodore 64:lle
 
-[Assembly](asm/README.md)
+[Assembly ohjelmia](asm/README.md)
 
 
 - - -
