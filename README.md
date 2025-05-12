@@ -4,12 +4,14 @@
 
 [Vision BASIC ohjelmia](Vision%20BASIC/README.md)
 
-Ohjelmat toimivat alkuperäisessä C64:ssä, retro theC64:ssä ja VICE-emulaattorissa.
-
 # Assembly- eli konekielisiä ohjelmia Commodore 64:lle
 
 [Assembly](asm/README.md)
 
+
+- - -
+
+Ohjelmat toimivat alkuperäisessä C64:ssä, retro theC64:ssä ja VICE-emulaattorissa.
 
 - - -
 
