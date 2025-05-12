@@ -245,6 +245,8 @@ FAC2    byte 40 ; Vakio tässä ohjelmassa
 
 ```
 
+### Basic lataaja
+
 Basic lataaja käännetylle ohjelmalle. Tämän voi copy - pasteta VICE:n ikkunaan. Tarvittaessa anna ensin new-komento poistaaksesi aiemman Basic-ohjelman muistista.
 
 Run-komento käynnistää Basic-ohjelman, joka lataa DATA-lauseista konekielisen ohjelman muistiin ja sen jälkeen käynnistää sen.
