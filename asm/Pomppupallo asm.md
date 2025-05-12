@@ -1,6 +1,6 @@
 # Reunoista pomppaava pallo - assembly versio (Basic lataajalla)
 
-Basic-lataaja sivun lopussa.
+_Basic-lataaja sivun lopussa._
 
 Ohjelma on niin nopea, että ilman hidastuslooppia (katso label VIIVE) pallon liikettä ei näe ruudulla.
 
