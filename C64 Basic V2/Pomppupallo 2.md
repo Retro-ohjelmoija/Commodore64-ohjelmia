@@ -44,4 +44,7 @@ POKE n, 81 on PRINT CHR$(209)
 
 [Reunoista pomppaava pallo](Pomppupallo%202%20v2.md) - nopea versio 2
 
+### Ohjelmasta muokattu assembly (konekielinen) versio
+
+[Reunoista pomppaava pallo ](../asm/Pomppupallo%20asm.md) konekielinen versio
 
