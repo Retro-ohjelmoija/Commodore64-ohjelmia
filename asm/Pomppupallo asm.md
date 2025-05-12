@@ -6,7 +6,7 @@ Ohjelma on niin nopea, että ilman hidastuslooppia (katso label VIIVE) pallon li
 
 Assembly-ohjelmaa ei ole yritetty millään tavalla optimoida.
 
-Alkuperäinen Basic-versio on täällä: [Reunoista pomppaava pallo](../C64%20Basic%20V2/Pomppupallo%202.md)
+Alkuperäinen Basic-versio on täällä: [Reunoista pomppaava pallo](../C64%20Basic%20V2/Pomppupallo%202.md) - nopea (mutta hitaampi kuin tämä konekielinen-versio)
 
 ```
 ; Reunoista pomppaava pallo
