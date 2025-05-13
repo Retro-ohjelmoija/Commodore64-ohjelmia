@@ -253,7 +253,7 @@ Basic lataaja käännetylle ohjelmalle. Tämän voi copy - pasteta VICE:n ikkuna
 
 `RUN`-komento käynnistää Basic-ohjelman, joka lataa DATA-lauseista konekielisen ohjelman muistiin ja sen jälkeen käynnistää sen.
 
-HUOM.: Ohjelmassa ei ole lopetustoimintoa, joten tee reset tai sammuta kone.
+HUOM.: Ohjelmassa ei ole lopetustoimintoa, joten sammuta kone, tee reset tai paina `run/stop` + `restore`.
 
 ```
 100 rem reunoista pomppaava pallo
