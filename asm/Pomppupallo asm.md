@@ -249,11 +249,11 @@ FAC2    byte 40 ; Vakio tässä ohjelmassa
 
 ### Basic lataaja
 
-Basic lataaja käännetylle ohjelmalle. Tämän voi copy - pasteta VICE:n ikkunaan. Tarvittaessa anna ensin `NEW`-komento poistaaksesi aiemman Basic-ohjelman muistista.
+Basic lataaja käännetylle ohjelmalle. Tämän voi copy - pasteta VICE:n ikkunaan. Tarvittaessa anna ensin `new`-komento poistaaksesi aiemman Basic-ohjelman muistista.
 
-`RUN`-komento käynnistää Basic-ohjelman, joka lataa DATA-lauseista konekielisen ohjelman muistiin ja sen jälkeen käynnistää sen.
+`run`-komento käynnistää Basic-ohjelman, joka lataa DATA-lauseista konekielisen ohjelman muistiin ja sen jälkeen käynnistää sen.
 
-HUOM.: Ohjelmassa ei ole lopetustoimintoa, joten sammuta kone, tee reset tai paina `run/stop` + `restore`.
+HUOM.: Ohjelmassa ei ole lopetustoimintoa, joten sammuta kone, tee reset tai paina `run/stop` + `restore` (emulaattorissa `esc` +  `page up`).
 
 ```
 100 rem reunoista pomppaava pallo
