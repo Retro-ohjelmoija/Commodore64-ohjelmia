@@ -17,6 +17,12 @@ SID-piirissä on kolme yhtäaikaista ääntä. Tämä esimerkki käsittelee vain
 
 SID:n muistialue alkaa osoitteesta 54272. Ohjelmassa tämä on muuttuja sd ja SID:n rekistereitä lasketaan siitä eteenpäin lisäämällä muuttujan avoon rekisterin numero. Ensimmäisen äänen rekisterit ovat 0 - 6, toisen 7 - 13 ja kolmannen 14 - 20.
 
+Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE emulaattorin ikkunaan.
+
+Tarvittaessa kirjoita ensin `new`-komento (poistaa aiemman Basic-ohjelman muistista).
+
+Aja ohjelma `run`-komennolla.
+
 Huom.: Tässä ei ole kuvattu kaikkia SID-piirin toimintoja.
 
 ```
