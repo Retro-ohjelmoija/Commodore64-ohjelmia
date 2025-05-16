@@ -11,3 +11,5 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 [Viivanpiirto](Viivanpiirto.md) Basicilla (demo, h..i..d..a..s..)
 
 [Perusteet osa 1](Perusteet%20osa%201.md) - Basic-esimerkki.
+
+[SID-äänidemo](SID-äänidemo.md) - Commodore 64 Sound Interface Device 
