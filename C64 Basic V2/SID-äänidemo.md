@@ -11,7 +11,7 @@ Huomioitavaa
 - Decay on käynnistettävä erikseen, jolloin decay-vaihe alkaa. Muuten ääni jää sustain-tilaan (jatkuu loputtomiin)
 - Attack ja decay ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat (siksi arvoalue 0 - 15)
 - Sustain ja release ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat (siksi arvoalue 0 - 15)
-- Pulssiaaltomuoto vaatii pulssin leveyden määrittelyn 0 - 4095 (12 bittiä). Arvot 0 ja 4095 tuottavat ulostuloon tasavirtaa - eivät siis ääntä. Käytä muita arvoja! Arvo 2048 tuottaa ns. kanttiaallon. Pulssin leveyttä on voi "liuttaa" nopeasti ja siten tuottaa ääniefektejä
+- Pulssiaaltomuoto vaatii pulssin leveyden määrittelyn 0 - 4095 (12 bittiä). Arvot 0 ja 4095 tuottavat ulostuloon tasavirtaa - eivät siis ääntä. Käytä muita arvoja! Arvo 2048 tuottaa ns. kanttiaallon. Pulssin leveyttä on voi "liu’uttaa" nopeasti ja siten tuottaa ääniefektejä
 
 SID-piirissä on kolme yhtäaikaista ääntä. Tämä esimerkki käsittelee vain ääntä 1.
 
