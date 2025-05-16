@@ -9,8 +9,8 @@ Selityksiä:
 Huomioitavaa
 - Attack ja decay muodostavat äänen alkuun "iskun" ja sustain vaihe on iskun jälkeen tasainen äänenvoimakkuus.
 - Decay on käynnistettävä erikseen, jolloin decay-vaihe alkaa. Muuten ääni jää sustain-tilaan (jatkuu loputtomiin)
-- Attack ja decay ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat
-- Sustain ja release ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat
+- Attack ja decay ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat (siksi arvoalue 0 - 15)
+- Sustain ja release ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat (siksi arvoalue 0 - 15)
 
 SID-piirissä on kolme yhtäaikaista ääntä. Tämä esimerkki käsittelee vain ääntä 1.
 
