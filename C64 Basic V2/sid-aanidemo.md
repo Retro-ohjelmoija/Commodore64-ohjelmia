@@ -4,7 +4,7 @@ Selityksiä:
 * attack - aika joka äänellä kuluu nollasta asetettuun äänen voimakkuuten
 * decay - aika asetusta yleisestä maksimi äänevoimakkuudesta asetettuun sustain-tasoon
 * sustain - äänen voimakkuus pitovaiheessa
-* decay - aika joka kuluu äänen hiipuessa sustain-tasosta nollaan
+* release - aika joka kuluu äänen hiipuessa sustain-tasosta nollaan
 
 Huomioitavaa
 - Attack ja decay muodostavat äänen alkuun "iskun" ja sustain vaihe on iskun jälkeen tasainen äänenvoimakkuus.
