@@ -49,7 +49,7 @@ Huom.: Tässä ei ole kuvattu kaikkia SID-piirin toimintoja.
 320 wf=8 : rem kohina
 330 gosub 800
 
-400 ke = 800 : rem sustai vaiheen kesto
+400 ke = 800 : rem sustain vaiheen kesto
 410 print "kitaran kielet"
 420 wf=2 : rem saha
 430 print "e"
