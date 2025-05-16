@@ -1,7 +1,7 @@
 # SID-äänipiirin ohjelmoiniti Basicilla
 
 Selityksiä:
-* attack - aika joka äänellä kuluu nollasta asetettuun äänen voimakkuuten
+* attack - aika joka äänellä kuluu nollasta asetettuun äänenvoimakkuuten
 * decay - aika asetusta yleisestä maksimi äänevoimakkuudesta asetettuun sustain-tasoon
 * sustain - äänen voimakkuus pitovaiheessa
 * release - aika joka kuluu äänen hiipuessa sustain-tasosta nollaan
