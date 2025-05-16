@@ -1,4 +1,4 @@
-# SID-äänipiirin ohjelmoiniti Basicilla
+# SID-äänipiirin ohjelmointi Basicilla
 
 Selityksiä:
 * attack - aika joka äänellä kuluu nollasta asetettuun äänenvoimakkuuten
