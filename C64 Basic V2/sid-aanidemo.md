@@ -15,6 +15,10 @@ Huomioitavaa
 
 SID-piirissä on kolme yhtäaikaista ääntä. Tämä esimerkki käsittelee vain ääntä 1.
 
+SID:n muistialue alkaa osoitteesta 54272. Ohjelmassa tämä on muuttuja sd ja SID:n rekistereitä lasketaan siitä eteenpäin lisäämällä muuttujan avoon rekisterin numero. Ensimmäisen äänen rekisterit ovat 0 - 6, toisen 7 - 13 ja kolmannen 14 - 20.
+
+Huom.: Tässä ei ole kuvattu kaikkia SID-piirin toimintoja.
+
 ```
 10 rem (c) 2025 retro-ohjelmoija
 
