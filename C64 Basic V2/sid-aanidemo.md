@@ -1,5 +1,19 @@
 # SID-äänipiirin ohjelmoiniti Basicilla
 
+Selityksiä:
+* attack - aika joka äänellä kuluu nollasta asetettuun äänen voimakkuuten
+* decay - aika asetusta yleisestä maksimi äänevoimakkuudesta asetettuun sustain-tasoon
+* sustain - äänen voimakkuus pitovaiheessa
+* decay - aika joka kuluu äänen hiipuessa sustain-tasosta nollaan
+
+Huomioitavaa
+- Attack ja decay muodostavat äänen alkuun "iskun" ja sustain vaihe on iskun jälkeen tasainen äänenvoimakkuus.
+- Decay on käynnistettävä erikseen, jolloin decay-vaihe alkaa. Muuten ääni jää sustain-tilaan (jatkuu loputtomiin)
+- Attack ja decay ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat
+- Sustain ja release ovat samassa rekisterissä (muistiosoitteessa), toinen ylemmät 4 bittiä ja toinen alemmat
+
+SID-piirissä on kolme yhtäaikaista ääntä. Tämä esimerkki käsittelee vain ääntä 1.
+
 ```
 10 rem (c) 2025 retro-ohjelmoija
 
