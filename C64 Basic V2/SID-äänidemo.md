@@ -6,6 +6,8 @@ Selityksiä
 * sustain - äänen voimakkuus pitovaiheessa
 * release - aika joka kuluu äänen hiipuessa sustain-tasosta nollaan
 
+![SID attack decay sustain release sycle](img/SID-kaavio.jpg)
+
 Huomioitavaa
 - Attack ja decay muodostavat äänen alkuun "iskun" ja sustain vaihe on iskun jälkeen tasainen äänenvoimakkuus.
 - Decay on käynnistettävä erikseen, jolloin decay-vaihe alkaa. Muuten ääni jää sustain-tilaan (jatkuu loputtomiin)
