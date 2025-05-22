@@ -14,4 +14,4 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 
 [SID-äänidemo](SID-äänidemo.md) - Commodore 64 Sound Interface Device 
 
-[Ä Ö ja Å](Skansimerkit.md) - C64 merkistön muokkaaminen 
+[Ä Ö ja Å](Skandimerkit.md) - C64 merkistön muokkaaminen 
