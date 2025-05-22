@@ -1,6 +1,6 @@
 # Ä Ö ja Å
 
-Ns. skandimerkkien määrittely. Korvaa merkit "[", "]" ja "£" merkeillä "Ä", "Ö", "Å".
+Ns. skandimerkkien määrittely. Korvaa merkit "[", "]" ja "£" merkeillä "Ä", "Ö" ja "Å".
 
 Lähde: "German Example" https://www.c64-wiki.com/wiki/Character_set#German_Example
 
