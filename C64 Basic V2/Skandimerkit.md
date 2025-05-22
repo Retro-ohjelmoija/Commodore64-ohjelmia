@@ -20,8 +20,8 @@ Ohjelman ajon jälkeen skandimerkit ovat käytettävissä painelemalla näppäim
 540 id=id*8
 550 for j=cr+id to cr+id+7
 560 read da
-570 poke j,da
-580 poke j+1024,255-da
+570 poke j,da : rem normaali
+580 poke j+1024,255-da : rem reverse
 590 next j
 600 next i
 610 end
