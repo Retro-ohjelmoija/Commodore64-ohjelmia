@@ -9,4 +9,12 @@
   `LOAD "HIT THE BALL", 8`  
   `RUN`
 
+[Pomppupallo](../Pomppupallo%20VB.md)
+
+- Pomppupallo.d64 sisältää yhden tiedoston "POMPPUPALLO"
+- Tiedoston voi ladata LOAD -komennolla ja ajaa RUN -komennolla, esimerkiksi  
+  `LOAD "*", 8`  
+  tai  
+  `LOAD POMPPUPALLO", 8`  
+  `RUN`
   
