@@ -1,5 +1,10 @@
-# Laidoista pomppaava pallo - Vision Basic -versio
+# Reunoista pomppaava pallo (sprite) - Vision Basic -versio
 
+Tämä Basic-ohjelma on animaatio pallosta, joka liikkuu näytöllä ja törmätessään reunaan kimpoaa siitä.
+
+Tässä pallo on toteutettu spritenä, eri C64:n erityisenä 24 X 21 pikselin grafiikkaelementtinä, jota voi liikutella näytöllä näytön muusta sisällöstä välittämättä.
+
+Tämä versio on muokattu Vision Basicille C64 Basic versiosta, joka on täällä: 
 
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
