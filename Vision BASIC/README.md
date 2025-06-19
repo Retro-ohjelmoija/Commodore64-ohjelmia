@@ -16,6 +16,7 @@ Vision BASIC:lla tehdyt ohjelmat voi kääntää suoritettavaksi ohjelmaksi, jok
 
 [Hit The Ball](Hit%20The%20Ball.md) on yksinkertainen tekstimoodissa toimiva pallopeli (tyyliin squash).
 
+[Reunoista pomppaava pallo](Pomppupallo%20VB.md) on esimerkki spriten toiminnasta.
 
 - - -
 
