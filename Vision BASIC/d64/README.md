@@ -15,6 +15,6 @@
 - Tiedoston voi ladata LOAD -komennolla ja ajaa RUN -komennolla, esimerkiksi  
   `LOAD "*", 8`  
   tai  
-  `LOAD POMPPUPALLO", 8`  
+  `LOAD "POMPPUPALLO", 8`  
   `RUN`
   
