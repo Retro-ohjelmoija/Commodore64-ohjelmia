@@ -103,7 +103,7 @@ koska tämä ohjelma ei käytä kasettinauria :-)
 
 ```
 
-Tästä ohjelmasta Vision BASIC:lle sovitettu versio: (Reunoista pomppaava pallo)[../Vision%20BASIC/Pomppupallo%20VB.md]
+Tästä ohjelmasta Vision BASIC:lle sovitettu versio: [Reunoista pomppaava pallo](../Vision%20BASIC/Pomppupallo%20VB.md)
 
 
 
