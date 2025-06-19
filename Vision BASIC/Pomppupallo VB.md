@@ -29,7 +29,6 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 200 if y > my then y = my - 1 : dy = -dy : vc = 1
 210 if y < sy then y = sy + 1 : dy = -dy : vc = 1
 220 if vc > 0 then gosub 500
-225 catch 0
 230 mobxy x, y
 240 get a$ : if a$="" then goto 150
 250 mobclr : rem spritet piiloon
@@ -45,7 +44,6 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 500 rem ** vaihda spriten vari **
 510 c = c + 1 : if c > 15 then c = 0
 520 if c = 6 then c = 7
-525 catch 0
 530 mobcol c
 540 return
 
