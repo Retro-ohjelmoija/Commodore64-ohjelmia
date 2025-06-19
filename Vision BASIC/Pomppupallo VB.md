@@ -4,8 +4,9 @@ Tämä Basic-ohjelma on animaatio pallosta, joka liikkuu näytöllä ja törmät
 
 Tässä pallo on toteutettu spritenä, eri C64:n erityisenä 24 X 21 pikselin grafiikkaelementtinä, jota voi liikutella näytöllä näytön muusta sisällöstä välittämättä.
 
-Tämä versio on muokattu Vision Basicille C64 Basic versiosta, joka on täällä: 
-
+Tämä versio on muokattu Vision BASIC:lle C64 Basic -versiosta, joka on täällä: [Reunoista pomppaava pallo](../C64%20Basic%20V2/Pomppupallo%203.md).
+Ohjelmassa on käytetty Vision BASIC:in sprite-käskyjä ja ohjelmaa on muutenkin muokattu Vision BASIC:in mukaiseksi. Lisäksi sprite-data ladataan run pack "B-828" ohjeen
+mukaisesti muistilohkoon 11 (Vision BASIC User Manual s. 201).
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
@@ -84,3 +85,4 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 1210 data 0,126,0
 
 ```
+
