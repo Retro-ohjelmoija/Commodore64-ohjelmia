@@ -29,6 +29,7 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 200 if y > my then y = my - 1 : dy = -dy : vc = 1
 210 if y < sy then y = sy + 1 : dy = -dy : vc = 1
 220 if vc > 0 then gosub 500
+225 catch 0
 230 mobxy x, y
 240 get a$ : if a$="" then goto 150
 250 mobclr : rem spritet piiloon
@@ -37,13 +38,14 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 400 rem ** valmistele sprite **
 410 mobclr
 420 mob 2,1,0,0,x,y,0,0 : rem sprite 2 aktiiviseksi
-430 os=11 : mobpat os,0 : rem sprite 2 data 11x64=704
+430 os=11 : poke 2042,os : rem sprite 2 data 11x64=704
 440 for n = 0 to 62: read q : nt=os*64+n : poke nt,q: next
 450 return
 
 500 rem ** vaihda spriten vari **
 510 c = c + 1 : if c > 15 then c = 0
 520 if c = 6 then c = 7
+525 catch 0
 530 mobcol c
 540 return
 
