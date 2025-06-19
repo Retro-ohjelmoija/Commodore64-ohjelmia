@@ -1,4 +1,4 @@
-# Reunoista pomppaava pallo (sprite) - Vision Basic -versio
+# Reunoista pomppaava pallo (sprite) - Vision BASIC -versio
 
 Tämä Basic-ohjelma on animaatio pallosta, joka liikkuu näytöllä ja törmätessään reunaan kimpoaa siitä.
 
