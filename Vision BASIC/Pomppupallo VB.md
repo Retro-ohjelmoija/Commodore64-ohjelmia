@@ -87,7 +87,7 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 ```
 
 Jos haluat vain kokeilla ohjelmaa, niin .d64 levykuvan voi ladata tästä:
-[Hit The Ball.d64](https://github.com/Retro-ohjelmoija/Basic-ohjelmia/blob/main/Vision%20BASIC/d64/Pomppupallo.d64)
+[Pomppupallo.d64](https://github.com/Retro-ohjelmoija/Basic-ohjelmia/blob/main/Vision%20BASIC/d64/Pomppupallo.d64)
 
 Vision BASIC -kääntäjää ei tarvita, levykuvalla oleva valmiiksi käännetty ohjelma toimii sellaisenaan C64:ssä / emulaattorissa ilman Vision BASIC:ia.
 
