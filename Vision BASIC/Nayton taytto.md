@@ -6,7 +6,7 @@ Ohjelman voi ajaa tavallisessa C64:ssä ja Vision BASIC -kääntäjällä. Kesto
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
-Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run` -komennolla ja lopeta ohjelma painamalla stop / run -näppäint (ESC) tai STOP + RESTORE (ESC + PageUp).
+Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run` -komennolla ja lopeta ohjelma painamalla STOP -näppäintä (ESC) tai STOP + RESTORE (ESC + PageUp).
 
 ```
 0 clr
