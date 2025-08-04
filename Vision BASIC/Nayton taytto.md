@@ -2,7 +2,7 @@
 
 Tämä ohjelma täyttää näytön 256 eri merkillä sarake sarakkeelta, rivi riviltä.
 
-Ohjelman voi ajaa tavallisessa C64:ssä (ilman riviä 0) ja Vision BASIC -kääntäjällä. Kesto C64:ssä noin 24 sekuntia ja Vision BASIC:ssa noin 4 sekuntia.
+Ohjelman voi ajaa tavallisessa C64:ssä ja Vision BASIC -kääntäjällä. Kesto C64:ssä noin 24 sekuntia ja Vision BASIC:ssa noin 4 sekuntia.
 
 Ohjelmakoodi on muotoiltu niin, että sen voi copy-pasteta VICE emulaattorin ikkunaan, jossa Vision BASIC on käytössä.
 
