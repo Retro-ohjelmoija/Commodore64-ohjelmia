@@ -11,6 +11,7 @@ Alkuperäinen Basic-versio on täällä: [Näytön täyttö](../Vision%20BASIC/N
 BasicUpstart2(alku)
 
 .const  naytto = 1024
+.const  nayton_koko = 25 * 40
 
 alku:
         ldy #0 // merkin screen code
@@ -38,7 +39,7 @@ loop4:
         sta naytto + 256 * 3, X
         iny
         inx
-        cpx #232
+        cpx #nayton_koko - 256 * 2
         bne loop4
 loppu:
         rts
