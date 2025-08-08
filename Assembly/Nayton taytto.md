@@ -76,5 +76,5 @@ loppu:
 
 ```
 
-
+Huom.: Näytömuistin osoitteisiin ja kokoon liittyvät laskennat tehdään käännösvaiheessa, Kick Assemblererissa on mahdollista käyttää makroja ja scriptejä.
 
