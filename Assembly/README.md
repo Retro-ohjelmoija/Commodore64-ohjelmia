@@ -6,6 +6,6 @@
 
 ---
 
-Konekielisiä ohjelmia voi tehdä esimerkiksi `CBM prg Studio` -editorilla, jossa on sisään rakennettu assembleri.
+Konekielisiä ohjelmia voi tehdä esimerkiksi `CBM prg Studio` -editorilla (kehitysympäristöllä), jossa on sisään rakennettu assembleri.
 
 Monipuolista `Kick Assembler` -kääntäjää voi käyttää CBM prg Studion kanssa tai erikseen jonkin muun editorin kanssa.
