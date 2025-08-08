@@ -41,5 +41,4 @@ loop4:
 loppu:
         rts
 
-
 ```
