@@ -39,7 +39,7 @@ loop4:
         sta naytto + 256 * 3, X
         iny
         inx
-        cpx #nayton_koko - 256 * 2
+        cpx #nayton_koko - 256 * 3
         bne loop4
 loppu:
         rts
