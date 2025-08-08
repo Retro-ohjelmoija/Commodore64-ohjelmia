@@ -1,6 +1,6 @@
 # Näytön täyttö - assembly versio
 
-Assembly-ohjelmaa ei ole yritetty millään tavalla optimoida.
+Assembly-ohjelmaa ei ole yritetty millään tavalla optimoida. Silti näyttö täyttyy näennäisen välittömästi.
 
 Alkuperäinen Basic-versio on täällä: [Näytön täyttö](../Vision%20BASIC/Nayton%20taytto.md).
 
