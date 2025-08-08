@@ -23,3 +23,4 @@ Kirjoita ensin `new` komento ja liitä sitten alla oleva koodi. Aja ohjelma `run
 
 ```
 
+Konekielellä (eli assemblyllä) ohjelmoitu version näytön täytöstä löytyy täältä: [Näytön täyttö](../Assembly/Nayton%20taytto.md).
