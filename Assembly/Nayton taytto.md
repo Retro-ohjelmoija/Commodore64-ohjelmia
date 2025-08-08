@@ -46,7 +46,7 @@ loppu:
 
 ```
 
-Edellisestä hiukan optimoitu versio
+Edellisestä hiukan optimoitu versio:
 
 ```
 // Näytön täyttö (optimoitu) Kick Assembler -versio
@@ -77,4 +77,5 @@ loppu:
 ```
 
 Huom.: Näytömuistin osoitteisiin ja kokoon liittyvät laskennat tehdään käännösvaiheessa, Kick Assemblererissa on mahdollista käyttää makroja ja scriptejä.
+Eli esimerkiksi `naytto + 256 * 2` tuottaa suoritettavaan ohjelmaan vakioarvon 1536.
 
