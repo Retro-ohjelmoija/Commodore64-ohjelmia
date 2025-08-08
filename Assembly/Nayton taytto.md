@@ -1,4 +1,4 @@
-#Näytön täyttö - assembly versio
+# Näytön täyttö - assembly versio
 
 Assembly-ohjelmaa ei ole yritetty millään tavalla optimoida.
 
