@@ -3,3 +3,9 @@
 [Reunoista pomppaava pallo](Pomppupallo%20asm.md)
 
 [Nayton täyttö](Nayton%20taytto.md)
+
+---
+
+Konekielisiä ohjelmia voi tehdä esimerkiksi CBM prg Studiolla, jossa on sisään rakennettu assembleri.
+
+Monipuolista Kick Assembleria voi käyttää CBM prg Studion kanssa tai erikseen jonkin muun editorin kanssa.
