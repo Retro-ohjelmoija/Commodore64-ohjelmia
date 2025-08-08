@@ -35,7 +35,7 @@ loop3:
         bne loop3
 loop4:
         tya
-        sta naytto + 256 * 3 ,X
+        sta naytto + 256 * 3, X
         iny
         inx
         cpx #232
