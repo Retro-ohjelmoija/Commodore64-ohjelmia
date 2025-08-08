@@ -10,30 +10,32 @@ Alkuperäinen Basic-versio on täällä: [Näytön täyttö](../Vision%20BASIC/N
 
 BasicUpstart2(alku)
 
+.const  naytto = 1024
+
 alku:
-        ldy #0
-        ldx #0
+        ldy #0 // merkin screen code
+        ldx #0 // muisti-indeksi
 loop1:
         tya
-        sta 1024,X
+        sta naytto, X
         iny
         inx
         bne loop1
 loop2:
         tya
-        sta 1024 + 256,X
+        sta naytto + 256, X
         iny
         inx
         bne loop2
 loop3:
         tya
-        sta 1024 + 256 * 2,X
+        sta naytto + 256 * 2, X
         iny
         inx
         bne loop3
 loop4:
         tya
-        sta 1024 + 256 * 3,X
+        sta naytto + 256 * 3 ,X
         iny
         inx
         cpx #232
