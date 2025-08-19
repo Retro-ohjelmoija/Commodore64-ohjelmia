@@ -2,9 +2,8 @@
 
 Kahta merkkiä käyttäen muodostuvia erilaisia kuvioita. Alkujaan yksirivinen ohjelma 8-Bit Show And Tell -kanavalta.
 
-
+> [!NOTE]
 > _Enemmän aiheesta 8-Bit Show And Tell kanavan videolla https://www.youtube.com/watch?v=MVQJykMJSH0_
-
 
 
 ```
