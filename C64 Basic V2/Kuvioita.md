@@ -7,6 +7,8 @@ Kahta merkkiä käyttäen muodostuvia erilaisia kuvioita. Alkujaan yksirivinen o
 
 ![Kahdella merkillä muodostettu kuvio](img/Kuvioita.png)
 
+Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE-emulaattorin ikkunaan. Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
+
 ```
 10 rem inspiraatio 8-bit show and tell
 20 rem youtube kanavalta
