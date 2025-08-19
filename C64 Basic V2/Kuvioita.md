@@ -9,6 +9,8 @@ Kahta merkkiä käyttäen muodostuvia erilaisia kuvioita. Alkujaan yksirivinen o
 
 Oheinen listaus on muotoiltu niin, että sen voi kopioida ja liittää sellaisenaan VICE-emulaattorin ikkunaan. Tarvittaessa kirjoita ensin `new` -komento (poistaa aiemman Basic-ohjelman muistista).
 
+Aja ohjelma run -komennolla. Stoppaa ohjelma emulaattorissa esc-näppäimellä (= stop-näppäin).
+
 ```
 10 rem inspiraatio 8-bit show and tell
 20 rem youtube kanavalta
