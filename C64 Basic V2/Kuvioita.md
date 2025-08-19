@@ -5,6 +5,7 @@ Kahta merkkiä käyttäen muodostuvia erilaisia kuvioita. Alkujaan yksirivinen o
 > [!NOTE]
 > _Enemmän aiheesta 8-Bit Show And Tell kanavan videolla https://www.youtube.com/watch?v=MVQJykMJSH0_
 
+![Kahdella merkillä muodostettu kuvio](img/Kuvioita.png)
 
 ```
 10 rem inspiraatio 8-bit show and tell
