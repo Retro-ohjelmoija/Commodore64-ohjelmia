@@ -6,6 +6,8 @@ cbm = Commorore `C=` näppäin + numero (1 - 8)
 
 Värikoodi (0 - 15)
 
+![Eri tekstin värejä](img/Tekstin%20vari%201.png)
+
 ```
 0 rem (c) 2025 retro-ohjelmoija
 100 print chr$(144);
