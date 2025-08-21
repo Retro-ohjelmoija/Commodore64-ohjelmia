@@ -2,6 +2,8 @@
 
 ![Eri tekstin värejä](img/Tekstin%20vari%202.png)
 
+Rivit 290 - 310 ja samoin rivit 390 - 410 voi korvata `PRINT A$;` -käskyllä (merkki merkiltä looppi ei ole tarpeen).
+
 ```
 0 rem (c) 2025 retro-ohjelmoija
 100 dim cc(15)
