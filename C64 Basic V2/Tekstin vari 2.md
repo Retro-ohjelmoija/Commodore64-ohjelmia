@@ -1,5 +1,7 @@
 ## Tekstin väri (neljä taustaväriä) / Extended color mode
 
+![Eri tekstin värejä](img/Tekstin%20vari%202.png)
+
 ```
 0 rem (c) 2025 retro-ohjelmoija
 100 dim cc(15)
