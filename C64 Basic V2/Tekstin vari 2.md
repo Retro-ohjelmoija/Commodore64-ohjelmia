@@ -1,4 +1,4 @@
-## Tekstin vari (neljä taustaväriä) / Extended color mode
+## Tekstin väri (neljä taustaväriä) / Extended color mode
 
 ```
 0 rem (c) 2025 retro-ohjelmoija
