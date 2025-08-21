@@ -19,3 +19,5 @@ Nämä ohjelmat toimivat C64:ssä ja VICE-emulaattorissa.
 [Ä Ö ja Å](Skandimerkit.md) - C64 merkistön muokkaaminen 
 
 [Kuvioita](Kuvioita.md) - kuvioita kahdella merkillä 
+
+[Tekstin väri 1](Tekstin%20vari%201.md) ja [Tekstin väri 2](Tekstin%20vari%202.md) - kaksi demoa tekstien väreistä 
