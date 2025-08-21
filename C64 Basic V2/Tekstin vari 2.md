@@ -4,6 +4,8 @@
 
 Rivit 290 - 310 ja samoin rivit 390 - 410 voi korvata `PRINT A$;` -käskyllä (merkki merkiltä looppi ei ole tarpeen).
 
+Riveillä 150 - 210 oleva vaihtoehtoinen koko merkistön A$ jättää tarkoituksella lainausmerkin (34) pois.
+
 ```
 0 rem (c) 2025 retro-ohjelmoija
 100 dim cc(15)
