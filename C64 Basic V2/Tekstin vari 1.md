@@ -1,4 +1,4 @@
-## Tekstin perusvärit 1 (normaali tekstitila)
+## Tekstin perusvärit (normaali tekstitila)
 
 crl = control näppäin + numero (1 - 8)
 
